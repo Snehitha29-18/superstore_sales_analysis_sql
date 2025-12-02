@@ -1,5 +1,6 @@
 
 # 📊 Superstore Sales Data Analysis Project (SQL-Based)
+![image alt](https://github.com/Snehitha29-18/superstore_sales_analysis_sql/blob/af60c43c65315abd0ce3a2802b1babab0d3743a3/sales_images.avif)
 
 ### 🔍 Project Overview**
 
